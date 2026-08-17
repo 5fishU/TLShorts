@@ -1,0 +1,17 @@
+{
+  "title": "",
+  "description": "Pairing: Gojo Satoru x Itadori Yuuji",
+  "artist": "@USERNAME",
+  "author": "@USERNAME",
+  "cover": "COVER LINK",
+  "chapters": {
+    "0": {
+      "title": "",
+      "volume": "0",
+      "groups": {
+        "@USERMA<E": "/proxy/api/imgchest/chapter/CUBARINUMBER/"
+      },
+      "last_updated": "UNIXCODE"
+    }
+  }
+}
